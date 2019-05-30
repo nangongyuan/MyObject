@@ -9,6 +9,7 @@ MetaObject Object::meta = { sig_names, slts_names };
 
 Object::Object()
 {
+
 }
 
 Object::~Object()
